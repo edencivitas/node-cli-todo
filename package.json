@@ -1,0 +1,29 @@
+{
+  "name": "node-cli-todo",
+  "version": "0.0.1",
+  "description": "Command-line todo app",
+  "main": "todo.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "string": "^3.3.1",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moncrey/node-cli-todo.git"
+  },
+  "keywords": [
+    "todo",
+    "node"
+  ],
+  "author": "Max Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moncrey/node-cli-todo/issues"
+  },
+  "homepage": "https://github.com/moncrey/node-cli-todo"
+}
