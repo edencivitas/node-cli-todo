@@ -1,7 +1,6 @@
 var fs = require('fs');
 var readline = require('readline');
 var chalk = require('chalk');
-var sprintf = require('sprintf-js').sprintf;
 var S = require('string');
 
 var taskjson = require('./todo.json');
