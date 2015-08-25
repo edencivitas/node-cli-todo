@@ -9,7 +9,4 @@ I'm writing this to incrementally make it better. Starting with basic functions.
 
 add, remove and list tasks in the command line.
 
-### whats next?
-
-use a sqlite db instead of text json file, make modular, add a frickin package.json file
 
